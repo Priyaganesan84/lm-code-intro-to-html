@@ -12,11 +12,13 @@ body {
   h2 {
     color: #e22222;
     text-align: left;
+    
   }
 
   h3 {
     color: black;
     text-align: left;
+    
   }
 
   table, td, th {
